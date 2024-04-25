@@ -1,0 +1,212 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/new/page braek.png</file>
+    <file>images/new/Show grid.png</file>
+    <file>Key/Arrow Keys/Left.png</file>
+    <file>Key/Arrow Keys/Right.png</file>
+    <file>Key/Arrow Keys/Down.png</file>
+    <file>Key/Arrow Keys/Up.png</file>
+    <file>images/new/circle-stop.svg</file>
+    <file>images/new/new desktop.png</file>
+    <file>images/new/navigate desktop.png</file>
+    <file>images/new/config.png</file>
+    <file>images/new/pip.png</file>
+    <file>images/new/cap.png</file>
+    <file>images/new/cok.png</file>
+    <file>images/new/about.png</file>
+    <file>images/new/sett.png</file>
+    <file>images/new/key.png</file>
+    <file>images/new/us.png</file>
+    <file>icons/search.svg</file>
+    <file>icons/square.svg</file>
+    <file>icons/rectangle-horizontal.svg</file>
+    <file>icons/minus.svg</file>
+    <file>icons/x.svg</file>
+    <file>icons/capv2_BGM_icon.ico</file>
+    <file>icons/keyboardimage_Oz3_icon.ico</file>
+    <file>icons/icon.ico</file>
+    <file>icons/searchnirenren.png</file>
+    <file>icons/minimizesnirenren.png</file>
+    <file>icons/maximizesnirenren.png</file>
+    <file>icons/Closenirenren.png</file>
+    <file>icons/search1.png</file>
+    <file>icons/search.png</file>
+    <file>icons/square-asterisk.png</file>
+    <file>icons/user-round.png</file>
+    <file>icons/dot.png</file>
+    <file>icons/align-justify.png</file>
+    <file>icons/moon.png</file>
+    <file>icons/keycap.ico</file>
+    <file>icons/restore.png</file>
+    <file>icons/minimize.png</file>
+    <file>icons/exit.png</file>
+    <file>images/new/settings.png</file>
+    <file>images/new/keycap.png</file>
+    <file>images/new/user.png</file>
+    <file>images/new/question mark.png</file>
+    <file>images/new/clock.png</file>
+    <file>images/new/Expand or Collapse ribbon.png</file>
+    <file>images/new/Justify text.png</file>
+    <file>images/new/Decrease font size.png</file>
+    <file>images/new/Increase font size.png</file>
+    <file>images/new/Save Document.png</file>
+    <file>images/new/New Document.png</file>
+    <file>images/new/Center Text.png</file>
+    <file>images/new/Apply Bold.png</file>
+    <file>images/new/Apply Underline.png</file>
+    <file>images/new/Apply Italic.png</file>
+    <file>images/new/Create New folder.png</file>
+    <file>images/new/undo.png</file>
+    <file>images/new/Redo.png</file>
+    <file>images/new/exit app or item.png</file>
+    <file>images/new/task manager.png</file>
+    <file>images/new/snipping tool.png</file>
+    <file>images/new/Quick link menu.png</file>
+    <file>images/new/Paste.png</file>
+    <file>images/new/Copy.png</file>
+    <file>images/new/Delete row or column.png</file>
+    <file>images/new/Insert Hyperlink.png</file>
+    <file>images/new/Insert row or column.png</file>
+    <file>images/new/Format cells.png</file>
+    <file>images/new/Filter or unfilter.png</file>
+    <file>images/new/Present current slide.png</file>
+    <file>images/new/Start presentation.png</file>
+    <file>images/new/Ungroup object.png</file>
+    <file>images/new/Group object.png</file>
+    <file>images/new/Duplicate current slide.png</file>
+    <file>images/new/Past object format.png</file>
+    <file>images/new/Copy Object Format.png</file>
+    <file>images/new/Duplicate slide.png</file>
+    <file>images/new/Create New slide.png</file>
+    <file>images/new/Edit cell.png</file>
+    <file>images/new/Insert current time.png</file>
+    <file>images/new/Reopen closed tab.png</file>
+    <file>images/new/Close current tab.png</file>
+    <file>images/new/Open history.png</file>
+    <file>images/new/Open downloads.png</file>
+    <file>images/new/Open bookmark manager.png</file>
+    <file>images/new/Jump to address bar.png</file>
+    <file>images/new/Select All.png</file>
+    <file>images/new/Print.png</file>
+    <file>images/new/Find text.png</file>
+    <file>images/new/Insert page break.png</file>
+    <file>images/new/Show guidelines or gridlines.png</file>
+    <file>images/new/go to A1 cell.png</file>
+    <file>images/new/Last edited cell.png</file>
+    <file>images/new/Previous sheet.png</file>
+    <file>images/new/Next sheet.png</file>
+    <file>images/new/Extend selection.png</file>
+    <file>images/new/autosum.png</file>
+    <file>images/new/recently closed tab.png</file>
+    <file>images/new/Open new tab.png</file>
+    <file>images/new/jump to next tab.png</file>
+    <file>images/new/jump to previous tab.png</file>
+    <file>images/new/ScrnSht.png</file>
+    <file>images/capV3.png</file>
+    <file>images/capV2.png</file>
+    <file>images/capV2.svg</file>
+    <file>images/Next.png</file>
+    <file>images/cactus.jpg</file>
+    <file>images/hamster.png</file>
+    <file>images/frog.png</file>
+    <file>images/ScrnSht.png</file>
+    <file>images/window11.png</file>
+    <file>images/plus.png</file>
+    <file>images/settings.png</file>
+    <file>images/sumit.png</file>
+    <file>images/keycaps.png</file>
+    <file>images/newtimer.png</file>
+    <file>images/users.png</file>
+    <file>images/clock.png</file>
+    <file>images/question mark.png</file>
+    <file>images/web browser.png</file>
+    <file>images/jump to previous tab.png</file>
+    <file>images/jump to next tab.png</file>
+    <file>images/Open new tab.png</file>
+    <file>images/recently closed tab.png</file>
+    <file>images/autosum.png</file>
+    <file>images/Extend selection.png</file>
+    <file>images/Next sheet.png</file>
+    <file>images/Previous sheet.png</file>
+    <file>images/Last edited cell.png</file>
+    <file>images/go to A1 cell.png</file>
+    <file>images/excel.png</file>
+    <file>images/Show guidelines or gridlines.png</file>
+    <file>images/Insert page break.png</file>
+    <file>images/Find text.png</file>
+    <file>images/Print.png</file>
+    <file>images/Select All.png</file>
+    <file>images/Jump to address bar.png</file>
+    <file>images/Open bookmark manager.png</file>
+    <file>images/Open downloads.png</file>
+    <file>images/Open history.png</file>
+    <file>images/Close current tab.png</file>
+    <file>images/Reopen closed tab.png</file>
+    <file>images/Insert current time.png</file>
+    <file>images/Insert current date.png</file>
+    <file>images/Edit cell.png</file>
+    <file>images/Delete row or column.png</file>
+    <file>images/Insert Hyperlink.png</file>
+    <file>images/Insert row or column.png</file>
+    <file>images/Format cells.png</file>
+    <file>images/Filter or unfilter.png</file>
+    <file>images/Present current slide.png</file>
+    <file>images/Start presentation.png</file>
+    <file>images/Ungroup object.png</file>
+    <file>images/Group object.png</file>
+    <file>images/Duplicate current slide.png</file>
+    <file>images/Past object format.png</file>
+    <file>images/Copy Object Format.png</file>
+    <file>images/Duplicate slide.png</file>
+    <file>images/Create New slide.png</file>
+    <file>images/Expand or Collapse ribbon.png</file>
+    <file>images/Justify text.png</file>
+    <file>images/Decrease font size.png</file>
+    <file>images/Increase font size.png</file>
+    <file>images/Save Document.png</file>
+    <file>images/New Document.png</file>
+    <file>images/Center Text.png</file>
+    <file>images/Apply Bold.png</file>
+    <file>images/Apply Underline.png</file>
+    <file>images/Apply Italic.png</file>
+    <file>images/Create New folder.png</file>
+    <file>images/undo.png</file>
+    <file>images/Redo.png</file>
+    <file>images/exit app or item.png</file>
+    <file>images/task manager.png</file>
+    <file>images/snipping tool.png</file>
+    <file>images/Quick link menu.png</file>
+    <file>images/Paste.png</file>
+    <file>images/Copy.png</file>
+    <file>images/menu.png</file>
+    <file>images/Ctrl + X.png</file>
+    <file>images/Screenshot 2024-02-14 221421.png</file>
+    <file>images/sticky4.png</file>
+    <file>images/sticky3.png</file>
+    <file>images/sticky2.png</file>
+    <file>images/sticky1.png</file>
+    <file>images/stripes.png</file>
+    <file>images/web2.png</file>
+    <file>images/cap.png</file>
+    <file>images/web.png</file>
+    <file>images/chrome.png</file>
+    <file>images/firefox.png</file>
+    <file>images/window3.png</file>
+    <file>images/window2.png</file>
+    <file>images/windows-11.png</file>
+    <file>images/window.png</file>
+    <file>images/Windowslogo.png</file>
+    <file>images/windows11.png</file>
+    <file>images/keyboardimage.png</file>
+    <file>images/lightbulb.png</file>
+    <file>images/bulb.png</file>
+    <file>images/yellowline.png</file>
+    <file>images/Edge.png</file>
+    <file>images/word.png</file>
+    <file>images/powerpoint.png</file>
+    <file>images/keyboard.png</file>
+    <file>images/keycap.jpg</file>
+    <file>images/search.png</file>
+    <file>images/line.png</file>
+  </qresource>
+</RCC>
